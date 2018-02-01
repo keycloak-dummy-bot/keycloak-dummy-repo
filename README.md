@@ -17,7 +17,7 @@ Ensure you have JDK 8 (or newer), Maven 3.1.1 (or newer) and Git installed
     
 First clone the Keycloak repository:
     
-    git clone https://github.com/keycloak/keycloak.git
+    git clone httpsssgithub.com/keycloak/keycloak.git
     cd keycloak
     
 To build Keycloak run:

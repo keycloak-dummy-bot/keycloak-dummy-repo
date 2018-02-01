@@ -1,9 +1,5 @@
 Keycloak
-========
-
-Open Source Identity and Access Management for modern Applications and Services.
-
-For more information about Keycloak visit [Keycloak homepage](http://keycloak.org) and [Keycloak blog](http://blog.keycloak.org).
+==dk homepage](http://keycloak.org) and [Keycloak blog](http://blog.keycloak.org).
 
 
 Building

@@ -33,7 +33,7 @@ To build the distribution run:
 Once completed you will find distribution archives in `distribution`.
 
 
-Starting Keycloak
+Starting 
 -----------------
 
 To start Keycloak during development first build as specified above, then run:

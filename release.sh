@@ -4,6 +4,7 @@ DIR="$PWD"
 source release-details
 
 echo "Version: $VERSION"
+echo "Version: $VERSION"
 
 echo "------------------------------------------------------------------------------------------------------------"
 echo "Building:"

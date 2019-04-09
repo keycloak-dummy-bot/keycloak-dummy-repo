@@ -27,7 +27,7 @@
         <version>19</version>
     </parent>
 
-    <name>Awesome Keycloak 101</name>
+    <name>Awesome KC cloudz 101</name>
     <description>
         Keycloak SSO
     </description>

@@ -30,7 +30,7 @@
     <packaging>war</packaging>
 
     <description>
-        Kerberos Credential Delegation Example
+        Kerberos Delegation Example
     </description>
 
     <repositories>

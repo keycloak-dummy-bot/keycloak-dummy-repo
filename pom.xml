@@ -27,7 +27,7 @@
         <version>19</version>
     </parent>
 
-    <name>Awesome Keycloak Quarkus 102</name>
+    <name>Awesome Keycloak Acme 102</name>
     <description>
         Keycloak SSO
     </description>

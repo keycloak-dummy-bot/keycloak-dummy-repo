@@ -8,6 +8,7 @@ This repository contains the source code for the Keycloak Server, Java adapters 
 ## Help and Documentation
 
 * [Documentation](https://www.keycloak.org/documentation.html)
+* [Documentation](https://www.keycloak.org/documentation.html)
 * [User Mailing List](https://lists.jboss.org/mailman/listinfo/keycloak-user) - Mailing list for help and general questions about Keycloak
 * [JIRA](https://issues.jboss.org/projects/KEYCLOAK) - Issue tracker for bugs and feature requests
 

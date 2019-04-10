@@ -15,6 +15,6 @@ Maintainers
 * [Pavel Drozd](https://github.com/pdrozd) ([Red Hat](https://www.redhat.com/))
 * [Pedro Igor](https://github.com/pedroigor) ([Red Hat](https://www.redhat.com/))
 * [Stan Silvert](https://github.com/ssilvert) ([Red Hat](https://www.redhat.com/))
-
+* John Doe
 
 

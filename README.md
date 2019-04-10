@@ -17,7 +17,6 @@ If you've found a security vulnerability, please look at the [instructions on ho
 
 ## Reporting an issue
 
-If you believe you have discovered a defect in Keycloak please open an issue in our [Issue Tracker](https://issues.jboss.org/projects/KEYCLOAK).
 Please remember to provide a good summary, description as well as steps to reproduce the issue.
 
 

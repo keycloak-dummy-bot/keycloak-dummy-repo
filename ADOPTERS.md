@@ -15,7 +15,6 @@ List of organization names below is based on information collected using Keycloa
 * Bundesversicherungsamt
 * Capgemini
 * Chassi
-* CloudNative Inc.
 * Copenhagen Optimization
 * Curecomp GmbH
 * Cybertech

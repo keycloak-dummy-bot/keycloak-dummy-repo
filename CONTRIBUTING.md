@@ -4,7 +4,6 @@ Keycloak is an Open Source Identity and Access Management solution for modern Ap
 
 ## Building and working with the codebase
 
-Details for building from source and working with the codebase are provided in the [building and working with the code base](docs/building.md) guide.
 
 ## Contributing to Keycloak
 
